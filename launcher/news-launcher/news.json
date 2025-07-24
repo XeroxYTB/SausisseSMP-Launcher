@@ -4,5 +4,11 @@
     "content": "Ceci est un message de test pour la mise en place du launcheur",
     "author": "Administrateur",
     "publish_date": "24-07-2025"
+  },
+  {
+    "title": "Mise en place de la version 1.0.0 du launcheur sur github",
+    "content": "La version 1.0.0 du launcheur est désormais disponible sur le github du serveur",
+    "author": "Administrateur",
+    "publish_date": "24-07-2025"
   }
 ]
