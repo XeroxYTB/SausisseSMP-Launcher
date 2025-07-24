@@ -3,8 +3,8 @@
 $instance['sausisseSMPv1'] = array_merge($instance['sausisseSMPv1'], array(
     "loadder" => array(
         "minecraft_version" => "1.20.1",
-        "loadder_type" => "forge",
-        "loadder_version" => "latest"
+        "loadder_type" => "Forge",
+        "loadder_version" => "47.4.4"
     ),
     "verify" => true,
     "ignored" => array(
