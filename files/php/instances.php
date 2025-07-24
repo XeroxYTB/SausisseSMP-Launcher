@@ -1,6 +1,6 @@
 <?php
 
-$instance['SausisseSMPv1'] = array_merge($instance['SausisseSMPv1'], array(
+$instance['sausisseSMPv1'] = array_merge($instance['sausisseSMPv1'], array(
     "loadder" => array(
         "minecraft_version" => "1.20.1",
         "loadder_type" => "forge",
